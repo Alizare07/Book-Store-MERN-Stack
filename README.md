@@ -1,7 +1,7 @@
 # Book-Store-MERN-Stack
 
 
-  ##image project
+  ## Image project
   ![screenshot1](./images/Screenshot%20(7).png)
   ![screenshot2](./images/Screenshot%20(8).png)
   ![screenshot3](./images/Screenshot%20(9).png)
